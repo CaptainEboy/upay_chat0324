@@ -1,3 +1,12 @@
+# H![Screenshot (1212)](https://github.com/CaptainEboy/upay_chat0324/assets/63905637/8df0a289-3a7b-467e-82a4-8343f056256d)
+![Screenshot (1211)](https://github.com/CaptainEboy/upay_chat0324/assets/63905637/41d0346f-7d0d-46db-9042-f3bc943c1ee4)
+![Screenshot (1210)](https://github.com/CaptainEboy/upay_chat0324/assets/63905637/488f8ccb-355e-44fe-81c7-d6c570ab1fed)
+![Screenshot (1209)](https://github.com/CaptainEboy/upay_chat0324/assets/63905637/6733d823-48bf-4682-a033-d9cb7cd805f4)
+![Screenshot (1208)](https://github.com/CaptainEboy/upay_chat0324/assets/63905637/b9fcf595-72e0-4f43-9a52-f2fcda38ed73)
+![Screenshot (1213)](https://github.com/CaptainEboy/upay_chat0324/assets/63905637/002e5c56-3489-4e2f-ac1e-01f7c23262e6)
+ere are the screen shots of the card section
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
