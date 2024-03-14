@@ -1,3 +1,13 @@
+# Here is a short video of the new website with the card section
+https://github.com/CaptainEboy/upay_chat0324/assets/63905637/e46c7d7f-0a46-4163-a544-819ced8fdeec
+
+# Here are the screen shots of the card section
+
+![Screenshot (1214)](https://github.com/CaptainEboy/upay_chat0324/assets/63905637/58899a30-6af7-461b-8a28-5f8a2b35ccc9)
+![Screenshot (1215)](https://github.com/CaptainEboy/upay_chat0324/assets/63905637/46e12e71-2b50-4d78-ac80-28cf1673aed9)
+![Screenshot (1216)](https://github.com/CaptainEboy/upay_chat0324/assets/63905637/5d1672e9-5d41-4a95-b94f-b2bcbce00d19)
+![Screenshot (1217)](https://github.com/CaptainEboy/upay_chat0324/assets/63905637/15c11362-7d11-4e02-a132-03faedb6bdba)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
