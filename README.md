@@ -1,3 +1,6 @@
+# Here is a short video of the new website with the card section
+https://github.com/CaptainEboy/upay_chat0324/assets/63905637/e46c7d7f-0a46-4163-a544-819ced8fdeec
+
 # Here are the screen shots of the card section
 
 ![Screenshot (1214)](https://github.com/CaptainEboy/upay_chat0324/assets/63905637/58899a30-6af7-461b-8a28-5f8a2b35ccc9)
